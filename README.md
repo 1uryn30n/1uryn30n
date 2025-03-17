@@ -6,8 +6,10 @@
 
 💻 Desenvolvedor Front-end com experiência em desenvolvimento web, mobile, análises e automação de processos.
 <br>
+
 🚀 Apaixonado por tecnologia, inovação e soluções que impactam positivamente a vida das pessoas.
 <br>
+
 🔭 Atualmente, estou focado em aprimorar minhas habilidades em React e meus conhecimentos sobre o universo UI/UX.</p>
 
 ### Habilidades Técnicas:
