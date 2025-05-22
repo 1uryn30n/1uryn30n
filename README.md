@@ -13,9 +13,9 @@
 🔭 Atualmente, estou focado em aprimorar minhas habilidades em React e meus conhecimentos sobre o universo UI/UX.</p>
 
 ### Habilidades Técnicas:
- - Linguagens: JavaScript, Python, PHP, C, 
- - Front-end: HTML, CSS, React, Angular
- - Ferramentas: Git, Docker, AWS , VS Code
+ - Linguagens: JavaScript, Python, PHP, C 
+ - Front-end: HTML, CSS, React, Vue, Angular
+ - Ferramentas: Git, Docker, AWS , VS Code, YouTrack, Discord
  - Outros: Suporte, Manutenção, Testes de Software
    
 ### Connect with me
